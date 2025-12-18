@@ -49,5 +49,9 @@ Key Features:
 - City wise contribution and volume comparison
 
 - Transparent assumptions driven cost modeling
-- 
--
+
+![image alt](https://github.com/amlandas-in/IPL-Cost-Benefit-Analysis-Dashboard/blob/71ae65f7afe3e14b625d1090e47c13f3684698e2/assets/IPL_AS2_Dashboard2.png)
+
+---
+
+
