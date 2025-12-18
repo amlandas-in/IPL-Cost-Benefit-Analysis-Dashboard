@@ -54,4 +54,16 @@ Key Features:
 
 ---
 
+## 🧠 Key Insights
 
+- IPL marketing drives a strong uplift in revenue despite removal of distributor discounts
+
+- Initial campaign costs impact early profitability, followed by consistent gains as volumes scale
+
+- ZestVita contributes higher margins, while NutriKid benefits from volume expansion
+
+- A small set of cities contribute disproportionately to total incremental profit
+
+- Targeted regional execution improves overall campaign ROI
+
+  ---
