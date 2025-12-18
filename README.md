@@ -34,7 +34,7 @@ Key Features:
 
 - “Overall” option to view combined product performance
 
--
+![image alt](https://github.com/amlandas-in/IPL-Cost-Benefit-Analysis-Dashboard/blob/658d7f4316e1304be5383ea6c36915e3bbb8e8e5/assets/IPL_AS2_Dashboard1.png)
 
 ## 💡 Dashboard 2: Cost Benefit Analysis
 
