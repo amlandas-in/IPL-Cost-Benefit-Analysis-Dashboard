@@ -18,3 +18,36 @@ The dashboard enables region wise and city wise decision making by visualizing r
 - Identify high performing regions and cities
 
 ---
+
+## 📊 Dashboards Included
+### 📈 Dashboard 1: Plan Comparison
+
+Provides a high level comparison of business performance under both scenarios.
+
+Key Features:
+
+- Side by side comparison of Old Plan and IPL Plan
+
+- Monthly revenue, units sold, and contribution analysis
+
+- Dynamic dropdowns for region and product selection
+
+- “Overall” option to view combined product performance
+
+-
+
+## 💡 Dashboard 2: Cost Benefit Analysis
+
+Focuses on evaluating the profitability and ROI of the IPL campaign.
+
+Key Features:
+
+- Monthly incremental units sold and profit analysis
+
+- Clear visualization of campaign ramp up and payback period
+
+- City wise contribution and volume comparison
+
+- Transparent assumptions driven cost modeling
+- 
+-
