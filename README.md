@@ -54,7 +54,7 @@ Key Features:
 
 ---
 
-## 🧠 Key Insights
+## 🔎 Key Insights
 
 - IPL marketing drives a strong uplift in revenue despite removal of distributor discounts
 
