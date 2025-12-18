@@ -19,7 +19,7 @@ The dashboard enables region wise and city wise decision making by visualizing r
 
 ---
 
-## 📊 Dashboards Included
+## 📊 Dashboard Overview
 ### 📈 Dashboard 1: Plan Comparison
 
 Provides a high level comparison of business performance under both scenarios.
